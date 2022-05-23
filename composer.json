@@ -1,6 +1,6 @@
 {
     "name": "dive-be/php-utils",
-    "description": "Some useful PHP tools",
+    "description": "Collection of useful tools used at DIVE",
     "keywords": [
         "dive",
         "support",
