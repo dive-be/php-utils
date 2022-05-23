@@ -1,8 +1,6 @@
-# 🛠 PHP Utilities
+# 🛠 Collection of useful tools used at DIVE
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/dive-be/php-utils.svg?style=flat-square)](https://packagist.org/packages/dive-be/php-utils)
-
-A collection of useful tools used at DIVE.
 
 - [Makeable](#makeable)
 
