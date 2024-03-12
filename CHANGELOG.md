@@ -2,6 +2,16 @@
 
 All notable changes to `php-utils` will be documented in this file.
 
+## 0.3.0 - 2024-03-12
+
+### Added
+
+- PHP 8.3 support
+
+### Removed
+
+- PHP 8.2 support
+
 ## 0.2.0 - 2023-05-3
 
 ### Removed
